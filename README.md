@@ -6,15 +6,7 @@ M2 Data Science student @ Université de Caen Normandie — working across **mac
 
 ### What I'm working on
 
-**Medical imaging research** — deep learning pipeline (EfficientNet-B0 on RT-DOSE / NIfTI data) to predict cognitive toxicity in brain radiotherapy patients, as part of an ongoing collaboration comparing photon vs. proton therapy outcomes.
-
-**Maritime data analysis** — during an R&D internship at SINAY, built a AIS-trajectory pipeline for line assignment using sequential pattern mining (PrefixSpan, CloSpan), OCS similarity, and DBSCAN clustering, served through a Streamlit + FastAPI interface.
-
-**La Ruche Académie** — a full-stack e-learning platform (React/TypeScript, Node.js/Express, Prisma, PostgreSQL, Supabase), covering dashboards, role-based interfaces, planning/calendar tools, and auth.
-
-**Generative models** — conditional DDPM for image inpainting/outpainting (PyTorch, CIFAR-10), plus GAN / Conditional GAN experiments.
-
-Starting a new internship in March 2026 — currently applying for AI / Data Science internships & apprenticeships.
+I like building complete data science and AI projects end-to-end — from data exploration and preprocessing to model training, evaluation, and deployment (Streamlit, FastAPI). My work spans deep learning research (medical imaging, generative models), data mining on real-world datasets, and full-stack web development to turn machine learning models into usable products. I'm currently looking for an AI / Data Science internship or apprenticeship.
 
 ### Tech stack
 
